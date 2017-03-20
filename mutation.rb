@@ -1,4 +1,5 @@
 
+
 def mutation?(word1,word2)
   x = true
   word2.split("").each do |letter|
